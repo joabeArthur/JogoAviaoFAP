@@ -1,0 +1,1 @@
+alert("cara mais tarde eu continuo, tenho que ajudar meu pai no trampo");
